@@ -1,0 +1,26 @@
+.contact {
+    padding: 40px 60px;
+    background-color: #f1f1f1;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .contact a {
+    display: block;
+    margin-top: 10px;
+  }
+  .contact {
+    padding: 40px 60px;
+    max-width: 90%;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) {
+    .contact {
+      padding: 20px 30px;
+    }
+  }
+  

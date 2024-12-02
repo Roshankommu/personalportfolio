@@ -1,0 +1,31 @@
+.about {
+    padding: 40px 60px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+  }
+  
+  .about p {
+    font-size: 1.2em;
+    line-height: 1.8;
+    text-align: justify;
+  }
+  .about h2{
+    text-align: left;
+    font-size: large;
+    text-decoration: underline;
+  }
+  .about {
+    padding: 40px 60px;
+    max-width: 90%;
+    margin: 20px auto;
+  }
+  
+  @media (max-width: 768px) {
+    .about {
+      padding: 20px 30px;
+    }
+  }
+  

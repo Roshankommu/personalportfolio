@@ -1,0 +1,35 @@
+.projects {
+    padding: 40px 60px;
+    background-color: #fff;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+  }
+  
+  .projects section {
+    margin-bottom: 30px;
+  }
+  
+  .projects p {
+    font-size: 1.1em;
+    text-align: justify;
+  }
+  .projects h3{
+    text-decoration: underline;
+    color: black;
+  }
+  .projects h2{
+    color: blue;
+  }
+  .projects {
+    padding: 40px 60px;
+    max-width: 90%;
+    margin: 20px auto;
+  }
+  
+  @media (max-width: 768px) {
+    .projects {
+      padding: 20px 30px;
+    }
+  }
+  

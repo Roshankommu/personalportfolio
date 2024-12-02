@@ -1,0 +1,38 @@
+.education-experience {
+    padding: 40px 60px;
+    background-color: #f9f9f9;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 8px;
+  }
+  
+  .education-experience h3 {
+    margin-top: 20px;
+    text-align: left;
+    font-size: large;
+    text-decoration: underline;
+  }
+  
+  .education-experience ul {
+    padding-left: 20px;
+  }
+  
+  .education-experience li {
+    margin-bottom: 10px;
+    text-align: justify;
+  }
+  .education-experience h2{
+    color: blue;
+  }
+  .education-experience {
+    padding: 40px 60px;
+    max-width: 90%;
+    margin: 20px auto;
+  }
+  
+  @media (max-width: 768px) {
+    .education-experience {
+      padding: 20px 30px;
+    }
+  }
+  
